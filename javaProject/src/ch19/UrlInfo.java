@@ -4,7 +4,7 @@ import java.net.MalformedURLException;
 import java.net.URL;
 
 public class UrlInfo {
-
+    //깃 테스트
 	//URL : url정보를 분석하는 클래스
 	public static void main(String[] args) {
 		try {
