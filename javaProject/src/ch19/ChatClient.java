@@ -8,6 +8,7 @@ import java.util.Scanner;
 
 public class ChatClient {
 	public static void main(String[] args) throws Exception {
+		//소스변경 test
 		Socket socket = null;
 		PrintWriter writer = null;
 		BufferedReader reader = null;
